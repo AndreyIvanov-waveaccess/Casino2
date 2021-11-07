@@ -1,0 +1,19 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.2.2",
+    "@truffle/hdwallet-provider": "^1.5.1"
+  }
+}
